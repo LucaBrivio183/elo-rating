@@ -57,7 +57,7 @@ D = 2 + (log10(|score team 1 - score team2| + 1))^3
 
 la formula finale diventa così
 
-nuovo rating giocatore A = Vecchio rating giocatore A + (Ka*P)*(T1 - Pa)
+nuovo rating giocatore A = Vecchio rating giocatore A + (Ka*D)*(T1 - Pa)
  
 
 
