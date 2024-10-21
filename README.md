@@ -16,7 +16,7 @@ ora per calcolare il nuovo rating
 Nuovo rating per A = vecchio rating A + K*(Sa - Pa)
  dove
  - Pa è calcolato
- - Sa è invece lo score ottenuto (0 per sconfitta e 1 per vittoria, non è contemplato il pareggio
+ - Sa è invece lo score ottenuto (0 per sconfitta e 1 per vittoria, non è contemplato il pareggio)
  - K è una costante variabile per il numero di game giocati (copiata dai game online)
 
 $$
