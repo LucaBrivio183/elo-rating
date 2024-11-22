@@ -43,7 +43,7 @@ T1=(Pa+Pb)/2
 
 a questo punto per calcolare il nuovo rating dopo una partita 
 
-nuovo rating giocatore A = Vecchio rating giocatore A + k*(T1 - Pa)
+nuovo rating giocatore A = Vecchio rating giocatore A + k*(Sa - T1 - Pa)
 
 REGOLE AGGIUNTIVE
 
